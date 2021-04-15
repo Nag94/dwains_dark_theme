@@ -21,7 +21,8 @@
 
 <p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
 </p> 
-![uptimerobot](https://www.iphonelife.com/sites/iphonelife.com/files/memoji_0.jpg)
+
+
 
 ## Prerequisite
 ---
