@@ -17,11 +17,11 @@ Dwains Dark Theme:
   # Text
   primary-text-color: '#f2f2f7'
   secondary-text-color: rgb(174, 174, 178)
-  text-primary-color: '#f2f2f7'
+  text-primary-color: var(--primary-text-color)
   disabled-text-color: rgb(41, 158, 194)
   # Sidebar Menu
   sidebar-icon-color: rgb(41, 158, 194)
-  sidebar-text-color: '#ffffff'
+  sidebar-text-color: var(--primary-text-color)
   sidebar-background-color: '#262628'
   sidebar-selected-background-color: '#1c1c1e'
   sidebar-selected-icon-color: rgb(41, 158, 194)
@@ -61,7 +61,7 @@ Dwains Dark Theme:
   # Switches
   switch-checked-button-color: '#f2f2f7'              
   switch-unchecked-button-color: '#616161'               
-  switch-checked-track-color: '#515357'                
+  switch-checked-track-color: rgb(41, 158, 194)                
   switch-unchecked-track-color: '#131314'   
   # Toggles
   paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
