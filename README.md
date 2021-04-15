@@ -22,6 +22,9 @@
 <p align="center">Created by <a href="https://github.com/LRvdLinden">Léon van der Linden</a>
 </p> 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77990847/114923763-7d6dd900-9e2d-11eb-9bb6-a51c5af909d9.png" />
+</p>
 
 
 ## Prerequisite
