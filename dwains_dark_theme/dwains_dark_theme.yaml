@@ -20,11 +20,11 @@ Dwains Dark Theme:
   text-primary-color: '#f2f2f7'
   disabled-text-color: '#f2f2f7'
   # Sidebar Menu
-  sidebar-icon-color: rgb(169, 177, 188)
+  sidebar-icon-color: '#d0d0d0'
   sidebar-text-color: rgb(198, 203, 210)
-  sidebar-background-color: rgb(32, 33, 36)
+  sidebar-background-color: '#121314'
   sidebar-selected-background-color: var(--primary-background-color)
-  sidebar-selected-icon-color: rgb(138, 180, 248)
+  sidebar-selected-icon-color: '#307aff'
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Buttons
   paper-item-icon-color: rgb(169, 177, 188)
