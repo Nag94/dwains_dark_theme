@@ -27,7 +27,7 @@
 
 ## Prerequisite
 ---
-- Make sure you have the [Google Calendar Event](https://www.home-assistant.io/integrations/calendar.google/) integration
+- Make sure you have can access youre Home Assistant config files with [Samba Share](https://www.youtube.com/watch?v=udqY2CYzYGk) or [ssh](https://community.home-assistant.io/t/home-assistant-community-add-on-ssh-web-terminal/33820)
 ```yaml
      # Example configuration.yaml entry
      google:
