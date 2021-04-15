@@ -27,8 +27,8 @@ Dwains Dark Theme:
   sidebar-selected-icon-color: '#307aff'
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Buttons
-  paper-item-icon-color: rgb(169, 177, 188)
-  paper-item-icon-active-color: rgb(138, 180, 248)
+  paper-item-icon-color: '#f2f2f7'
+  paper-item-icon-active-color: '#F9C536'
   # States and Badges
   state-icon-color: rgb(138, 180, 248)
   state-icon-active-color: rgb(169, 177, 188)
