@@ -16,9 +16,9 @@ Dwains Dark Theme:
   accent-color: '#262628'
   # Text
   primary-text-color: '#f2f2f7'
-  secondary-text-color: '#f2f2f7'
+  secondary-text-color: '#299ec2'
   text-primary-color: '#f2f2f7'
-  disabled-text-color: '#f2f2f7'
+  disabled-text-color: '#299ec2'
   # Sidebar Menu
   sidebar-icon-color: '#299ec2'
   sidebar-text-color: '#ffffff'
