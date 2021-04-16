@@ -5,6 +5,9 @@
   <a href="https://github.com/LRvdLinden/dwains_dark_theme">
     <img src="https://img.shields.io/github/v/release/LRvdLinden/dwains_dark_theme" />
   </a>
+    <a href="https://github.com/custom-components/hacs">
+    <img src="https://img.shields.io/badge/HACS-Default-orange.svg" />
+  </a>
       <a href="https://github.com/LRvdLinden/dwains_dark_theme">
     <img src="https://img.shields.io/github/downloads/LRvdLinden/dwains_dark_theme/latest/total?color=purple&label=%20release%20Downloads" />
   </a>
