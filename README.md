@@ -32,7 +32,7 @@
 
 ## Installation Dwains Dark Theme
 ---
-- Download the `dwains_dark_theme` folder and place in your `config/theme` directory.
+- Download the `themes` folder and place `dwains_dark_theme` in to your `config/theme` directory.
 - Make shure you have created a `themes` folder in youre `config/` directory and added the following code to youre `configuration.yaml`
 ```yaml
 # Core Configuration
