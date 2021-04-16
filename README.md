@@ -49,8 +49,9 @@ frontend:
 
 ![image](https://user-images.githubusercontent.com/77990847/114926311-7bf1e000-9e30-11eb-8193-d669545a642d.png)
 
-## Set HA theme for day and night
+## Automation options
 ---
+### Set HA theme for day and night
 - When you want to switch automatic between the Dark and Light theme based on the sun, please copy the file `auto_switch_theme.yaml` into youre `automations.yaml` or `directory`
 - Reboot Home Assistant
 ```yaml
@@ -74,6 +75,19 @@ frontend:
           {% else %}
             Dwains Dark Theme
           {% endif %}
+```
+### Automation for default theme after starup HA
+- When you want to have a default theme after startup HA, please copy the file `auto_switch_theme.yaml` into youre `automations.yaml` or `directory`
+- Reboot Home Assistant
+```yaml
+- alias: 'Set theme at startup'
+  trigger:
+    platform: homeassistant
+    event: start
+  action:
+    service: frontend.set_theme
+    data:
+      name: Dwains Light Theme
 ```
 
 ## Result
