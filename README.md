@@ -33,7 +33,14 @@
 ## Installation Dwains Dark Theme
 ---
 - Download the `dwains_dark_theme` folder and place in your `config/theme` directory.
-- Reboot Home Assistant
+- Make shure you have created a `themes` folder in youre `config/` directory and added the following code to youre `configuration.yaml`
+```yaml
+# Core Configuration
+default_config:
+frontend:
+  themes: !include_dir_merge_named themes/
+```
+- Reboot Home Assistant or after insatllation Dwains Light Theme
 
 ## Selecting Dwains Dark Theme
 ---
