@@ -1,4 +1,5 @@
-  
 {
-    "name": "Dwains Dark Theme",
+  "name": "Dwains Dark Theme",
+  "filename": "dwains_dark_theme.yaml",
+  "render_readme": true
 }
