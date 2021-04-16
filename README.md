@@ -87,7 +87,7 @@ frontend:
   action:
     service: frontend.set_theme
     data:
-      name: Dwains Light Theme
+      name: Dwains Dark Theme
 ```
 
 ## Result
