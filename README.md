@@ -40,7 +40,7 @@
 - Click on youre profile picture
 - By `themes` you need to select Dwains Dark Theme 
 
-![image](https://user-images.githubusercontent.com/77990847/114995638-54d1f780-9e9e-11eb-9579-51bbf5dad1a8.png)
+![image](https://user-images.githubusercontent.com/77990847/114926311-7bf1e000-9e30-11eb-8193-d669545a642d.png)
 
 
 ## Result
