@@ -106,6 +106,16 @@ frontend:
   dwains-theme-unavailable: '#303030'
   dwains-theme-off: '#606060' 
 ```
+
+## State icons 🎨
+---
+| Name | Type | Default | Since | 
+|------|:--------------:|:-------:|:-----:|
+| state icon | color | ![ ](https://dummyimage.com/20x10/299ec2&amp;text=+) `#299ec2` |  v2.0.1
+| active icon  | color | ![ ](https://dummyimage.com/20x10/ffd60a&amp;text=+) `#ffd60a` |  v2.0.1
+| unavailable icon | color | ![ ](https://dummyimage.com/20x10/a9b1bc&amp;text=+) `#a9b1bc` |  v2.0.1
+
+
 ## Result
 ---
 ![image](https://user-images.githubusercontent.com/77990847/114926388-91670a00-9e30-11eb-8747-570b62393dc8.png)
