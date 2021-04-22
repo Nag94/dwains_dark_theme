@@ -25,12 +25,12 @@
 </p>
 
 
-## Prerequisite
+## Prerequisite ⚙️
 ---
 - Make sure you can access youre Home Assistant config files with [Samba Share](https://www.youtube.com/watch?v=udqY2CYzYGk) or [ssh](https://community.home-assistant.io/t/home-assistant-community-add-on-ssh-web-terminal/33820)
 
 
-## Installation Dwains Dark Theme
+## Installation Dwains Dark Theme ⚙️
 ---
 - Download the `themes` folder and place `dwains_dark_theme` in to your `config/theme` directory.
 - Make shure you have created a `themes` folder in youre `config/` directory and added the following code to youre `configuration.yaml`
@@ -42,14 +42,14 @@ frontend:
 ```
 - Reboot Home Assistant or after insatllation Dwains Dark Theme
 
-## Selecting Dwains Dark Theme
+## Selecting Dwains Dark Theme 🔧
 ---
 - Click on youre profile picture
 - By `themes` you need to select Dwains Dark Theme 
 
 ![image](https://user-images.githubusercontent.com/77990847/114926311-7bf1e000-9e30-11eb-8193-d669545a642d.png)
 
-## Automation options
+## Automation options 🔧
 ---
 ### Set HA theme for day and night
 - When you want to switch automatic between the Dark and Light theme based on the sun, please copy the file `auto_switch_theme.yaml` into youre `automations.yaml` or `directory`
@@ -89,7 +89,7 @@ frontend:
     data:
       name: Dwains Dark Theme
 ```
-### Delete Dwains Dashboard support
+### Delete Dwains Dashboard support 🔧
 - When you dont use `Dwains Dashboard` delete line `86` til `98` of `dwains_dark_theme.yaml`
 ```yaml
   #DWAINS DASHBOARD
