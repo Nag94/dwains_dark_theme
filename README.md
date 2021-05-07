@@ -98,8 +98,25 @@ frontend:
 | active icon  | color | ![ ](https://dummyimage.com/20x10/ffd60a&amp;text=+) `#ffd60a` |  v2.0.1
 | unavailable icon | color | ![ ](https://dummyimage.com/20x10/a9b1bc&amp;text=+) `#a9b1bc` |  v2.0.1
 
+### Font 🎨
+---
+## Theme font (HA)
+--
+- If you whant to change the font of HA, you can change the Google font in theme theme file on line `8`
+```yaml
+primary-font-family: 'Open Sans' # <- if you whant to change the font, fill in de richt google font name between ''
+```
 
-## Result
+## Dwains Dashboard font
+--
+- If you want to change the fonnt from Dwains Dashboard, to get it the same as your HA theme, go to the dashboard theme files in directory `/config/custom_components/dwains_dashboard/lovelace/themefiles/`
+- Open the dashboard theme `.yaml` file
+- Search for `primary-font-family: 'Open Sans'`
+- Fill in the right Google font name between `''`
+- Reboot Home Assistant
+
+
+### Result
 ---
 ![image](https://user-images.githubusercontent.com/77990847/114926388-91670a00-9e30-11eb-8747-570b62393dc8.png)
 ![image](https://user-images.githubusercontent.com/77990847/114923935-b312c200-9e2d-11eb-81b2-3ae17998b3dd.png)
