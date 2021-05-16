@@ -118,12 +118,13 @@ primary-font-family: 'Open Sans' # <- if you whant to change the font, fill in d
 - Fill in the right [Google font](https://fonts.google.com/) name between `''`
 - Reboot Home Assistant
 
-### Dark and Light Theme
+## Dark and Light Theme 🎨
+---
 
-| Icon | Place | Type | Total |
-|------|:-------:|:--------------:|:------:|
-| 🎨 | Lovelace Theme | [Dwains Light Theme](https://github.com/LRvdLinden/dwains_light_theme) | 1 |
-| 🎨 | Lovelace Theme | [Dwains Dark Theme](https://github.com/LRvdLinden/dwains_dark_theme) | 1 |
+| Icon | Place | Type |
+|------|:-------:|:--------------:|
+| 🎨 | Lovelace Theme | [Dwains Light Theme](https://github.com/LRvdLinden/dwains_light_theme) | 
+| 🎨 | Lovelace Theme | [Dwains Dark Theme](https://github.com/LRvdLinden/dwains_dark_theme) | 
 
 | **Dwains Light Theme** | **Dwains Dark Theme** | 
 | ----------- | ----------  | 
