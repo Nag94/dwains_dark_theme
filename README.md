@@ -45,7 +45,7 @@ default_config:
 frontend:
   themes: !include_dir_merge_named themes/
 ```
-- Reboot Home Assistant or after insatllation Dwains Dark Theme
+- Reboot Home Assistant or after installation Dwains Dark Theme
 
 ## Selecting Dwains Dark Theme 🔧
 ---
